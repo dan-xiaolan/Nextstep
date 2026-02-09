@@ -1,0 +1,1 @@
+dialogueCollection.txt示例文件与转换后文件（dialogueCollection.json)
